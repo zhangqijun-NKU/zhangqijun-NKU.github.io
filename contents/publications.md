@@ -4,7 +4,7 @@
 
 - [2]	Zhang Qijun, Fang Tiange, Men Zhengyu, Wei Ning, Peng Jianfei, Du Tianqiang, Zhang Xinfeng, Ma Yao, Wu Lin, Mao Hongjun. Direct measurement of brake and tire wear particles based on real-world driving conditions [J]. Science of the Total Environment, 2024, 906.
 
-- [3-]	Sun Bin, Zhang Qijun*, Mao Hongjun, Li Zhijun. Validation of a statistical-dynamic framework for predicting energy consumption: A study on vehicle energy conservation equation [J]. Energy Conversion and Management, 2024, 307.
+- [3]	Sun Bin, Zhang Qijun*, Mao Hongjun, Li Zhijun. Validation of a statistical-dynamic framework for predicting energy consumption: A study on vehicle energy conservation equation [J]. Energy Conversion and Management, 2024, 307.
 
 - [4]	Sun Bin, Wang Haibo, Hu Le, Zhang Qijun*, Shi Hanchao, Mao Hongjun. Exploring vehicle-centric strategies for sustainable urban mobility: A theoretical framework for saving energy and reducing noise in transportation [J]. Journal of Environmental Management, 2024, 358.
 
